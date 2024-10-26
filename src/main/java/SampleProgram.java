@@ -9,7 +9,7 @@ public class SampleProgram {
 
         System.out.println("Sum value="+ sum);
 
-
+        System.out.println("End of program");
     }
 
 }
